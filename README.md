@@ -13,18 +13,33 @@ This is solo app
 - [Conclusion][conclusion]
 
 # Overview
+The ui flow gif is as follows
+<img src="web_gif.gif">
+
+
 
 # Structure
+<img src="./structure.png">
 
 # Features
+1. **About**
+2. **Blog**
+3. **Client**
+4. **Portfolio**
+5. **Services**
+6. **Team**
+
 
 # Bugs
 
 # Todo
+Losts of works are reming todo.
 
 # Credits
+This is the copy cat project from udemay 
 
 # Furthure Works
+
 
 # Conclusion
 
