@@ -33,10 +33,10 @@ The ui flow gif is as follows
 # Bugs
 
 # Todo
-Losts of works are reming todo.
+Losts of works are remining todo.
 
 # Credits
-This is the copy cat project from udemay 
+This is the copy cat project from [udemy][udemy] 
 
 # Furthure Works
 
@@ -51,4 +51,5 @@ This is the copy cat project from udemay
 [furthure-works]:<#furthure-works>
 [conclusion]:<#conclusion>
 [todo]:<#todo>
+[udemy]:<https://www.udemy.com/>
 
